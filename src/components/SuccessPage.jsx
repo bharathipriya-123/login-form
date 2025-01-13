@@ -1,5 +1,5 @@
 import React from 'react';
-import '../style/Sucesspage.css';
+import '../style/SuccessPage.css';
 
 function SuccessPage() {
   return (

@@ -1,19 +1,5 @@
 
-// import './App.css'
-// import Signin from './components/Signin';
 
-// function App() {
-  
-
-//   return (
-//    <div>
-   
-//     <Signin/>
-//    </div>
-//   )
-// }
-
-// export default App
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Signin from './components/Signin';
